@@ -18,7 +18,7 @@
 		<spring.version>4.2.5.RELEASE</spring.version>
 		<struts2.version>2.3.32</struts2.version>
 		<urlrewritefilter.version>4.0.3</urlrewritefilter.version>
-		<JSTL.version>1.2.5</JSTL.version>
+		<JSTL.version>1.2.5<gggggg/JSTL.version>
 	</properties>
 
 	<dependencyManagement>
